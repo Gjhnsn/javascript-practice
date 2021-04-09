@@ -4,8 +4,17 @@
 line
 comment */
 
-let fName = "Garrett";
-console.log(fName);
+let firstName = "Garrett";
+console.log(firstName);
 
 let favoriteFood = "Pizza";
 console.log(favoriteFood);
+
+let phrase = "Supercalifragilisticexpialidocious";
+console.log(phrase.length);
+
+console.log(542);
+
+let bigNum = 5451354984165468n;
+console.log(bigNum);
+console.log(typeof bigNum);

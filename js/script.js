@@ -10,6 +10,8 @@ console.log(firstName);
 let favoriteFood = "Pizza";
 console.log(favoriteFood);
 
+//lenght of phrase and logging numbers
+
 let phrase = "Supercalifragilisticexpialidocious";
 console.log(phrase.length);
 
